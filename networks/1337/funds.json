@@ -1,0 +1,74 @@
+[
+  {
+    "name": "dai",
+    "symbol": "dai",
+    "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "icon": "/icons/dai.svg",
+    "decimals": 18,
+    "chainId": 31337,
+    "type": "Stables"
+  },
+  {
+    "name": "usdc",
+    "symbol": "usdc",
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "icon": "/icons/usdc.svg",
+    "decimals": 6,
+    "chainId": 31337,
+    "type": "Stables"
+  },
+  {
+    "name": "usdt",
+    "symbol": "usdt",
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "icon": "/icons/usdt.svg",
+    "decimals": 6,
+    "chainId": 31337,
+    "type": "Stables"
+  },
+  {
+    "name": "eth",
+    "symbol": "eth",
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "icon": "/icons/eth.svg",
+    "decimals": 18,
+    "chainId": 31337,
+    "type": "Tokens"
+  },
+  {
+    "name": "pod",
+    "symbol": "pod",
+    "address": "0xdCE3451Cf2Fc33fBdc299BF98455874DCf68CA90",
+    "icon": "/icons/podsBorder.svg",
+    "decimals": 18,
+    "chainId": 31337,
+    "type": "Droplets"
+  },
+  {
+    "name": "vefxs",
+    "symbol": "vefxs",
+    "address": "0xc8418aF6358FFddA74e09Ca9CC3Fe03Ca6aDC5b0",
+    "icon": "/icons/vefxsBorder.svg",
+    "decimals": 18,
+    "chainId": 31337,
+    "type": "Droplets"
+  },
+  {
+    "name": "t",
+    "symbol": "t",
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "icon": "/icons/t.svg",
+    "decimals": 18,
+    "chainId": 31337,
+    "type": "Bonds"
+  },
+  {
+    "name": "fox",
+    "symbol": "fox",
+    "address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+    "icon": "/icons/fox.svg",
+    "decimals": 18,
+    "chainId": 31337,
+    "type": "Bonds"
+  }
+]

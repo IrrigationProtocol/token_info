@@ -1,0 +1,10 @@
+[
+    {
+        "name": "irrigation",
+        "symbol": "tranches",
+        "address": "0x251FAe8f687545BDD462Ba4FCDd7581051740463",
+        "icon": "/icons/tranche.svg",
+        "decimals": 6,
+        "chainId": 1
+    }
+]
